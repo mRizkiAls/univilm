@@ -30,7 +30,25 @@ php artisan serve
 
 ## Screenshot
 
-(Tambahkan gambar di sini)
+### Halaman Home
+
+![Home](screenshot/Screenshot%202026-05-18%20005057.png)
+
+### Halaman Login
+
+![Login](screenshot/Screenshot%202026-05-18%20005118.png)
+
+### Halaman Trending
+
+![Trending](screenshot/Screenshot%202026-05-18%20005153.png)
+
+### Halaman Profile
+
+![Profile](screenshot/Screenshot%202026-05-18%20005204.png)
+
+### Halaman Detail Film
+
+![Detail](screenshot/Screenshot%202026-05-18%20005255.png)
 
 ## Author
 
