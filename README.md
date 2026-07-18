@@ -34,19 +34,19 @@ php artisan serve
 
 ![Home](screenshot/Screenshot%202026-05-18%20005057.png)
 
-### Halaman Login
+### Halaman Movie
 
 ![Login](screenshot/Screenshot%202026-05-18%20005118.png)
 
-### Halaman Trending
+### Halaman History
 
 ![Trending](screenshot/Screenshot%202026-05-18%20005153.png)
 
-### Halaman Profile
+### Halaman Leaderboard
 
 ![Profile](screenshot/Screenshot%202026-05-18%20005204.png)
 
-### Halaman Detail Film
+### Halaman Profile
 
 ![Detail](screenshot/Screenshot%202026-05-18%20005255.png)
 
